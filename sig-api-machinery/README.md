@@ -55,6 +55,7 @@ subprojects, and resolve cross-subproject technical issues and decisions.
 
 The following [working groups][working-group-definition] are sponsored by sig-api-machinery:
 * [WG AI Integration](/wg-ai-integration)
+* [WG Checkpoint Restore](/wg-checkpoint-restore)
 * [WG Structured Logging](/wg-structured-logging)
 
 
